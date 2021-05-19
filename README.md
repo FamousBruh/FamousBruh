@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FamousBruh, the Chad of Chads
 - 👀 I’m interested in Programming and Electronics
-- 🌱 I’m currently learning Python, JS and C++
-- 💞️ I’m looking to collaborate on <TBA>
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on a legend of zelda terminal clone
 - 📫 How to reach me FamousBrit#8239
 
 <!---
